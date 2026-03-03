@@ -158,7 +158,7 @@
 </div>
 
 <br>
-
+<hr>
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">
