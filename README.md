@@ -175,9 +175,9 @@ class Rakshit:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&theme=midnight-purple&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&theme=buefy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&theme=midnight-purple&show_icons=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&theme=midnight-purple&show_icons=true&hide_border=true&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&theme=buefy&show_icons=true&hide_border=true&rank_icon=github">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&theme=midnight-purple&show_icons=true&hide_border=true&rank_icon=github" />
 </picture>
 &nbsp;
 <picture>
