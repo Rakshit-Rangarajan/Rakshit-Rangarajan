@@ -215,12 +215,10 @@ class Rakshit:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakshit-Rangarajan/Rakshit-Rangarajan/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakshit-Rangarajan/Rakshit-Rangarajan/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rakshit-Rangarajan/Rakshit-Rangarajan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakshit-Rangarajan/Rakshit-Rangarajan/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakshit-Rangarajan/Rakshit-Rangarajan/dist/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Rakshit-Rangarajan/Rakshit-Rangarajan/dist/github-snake-dark.svg" />
 </picture>
-
-> *To enable the snake, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.*
 
 </div>
 
