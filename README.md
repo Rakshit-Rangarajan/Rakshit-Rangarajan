@@ -6,6 +6,8 @@
 
 **I don't just integrate AI into products. I identify problems, architect solutions, and build the systems myself.**
 
+![Engineering philosophy in cursive](./assets/cursive-manifesto.svg)
+
 [![Portfolio](https://img.shields.io/badge/🌐_EXPLORE_MY_UNIVERSE-Portfolio-8B5CF6?style=for-the-badge)](https://rakshitr.co.in)
 [![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakshit-rangarajan-2084b2211/)
 [![Email](https://img.shields.io/badge/LET'S_BUILD-Email-FF4D8D?style=for-the-badge&logo=gmail)](mailto:rakshitr2000@gmail.com)
@@ -32,7 +34,7 @@ I'm **Rakshit Rangarajan**, a software engineer with a **Master's in Artificial 
 
 I work across **AI architecture, multi-agent orchestration, RAG, backend engineering, polished frontends, and release automation**. I enjoy owning the whole problem — from the first sketch to the deployed application.
 
-> ⚡ **My philosophy:** *I'm lazy, so I automate.* The best engineering removes work that never needed to be manual.
+> ✨ *The best engineering removes work that never needed to be manual.*
 
 ![Projects](./assets/section-projects.svg)
 
@@ -60,21 +62,11 @@ I work across **AI architecture, multi-agent orchestration, RAG, backend enginee
 - **Production thinking:** PostgreSQL, pgvector, MongoDB, Redis, Podman, Linux, CI/CD and automated testing.
 - **Ownership:** I proactively discover opportunities for automation and build working solutions independently.
 
-![Technology](./assets/section-skills.svg)
-
-## 🛠️ Technology constellation
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Containers-2496ED?style=for-the-badge&logo=podman&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![The Constellation of Craft](./assets/technology-constellation.svg)
+
+*An interconnected toolkit, not a wall of badges. Four disciplines working together to turn ambitious ideas into production systems.*
 
 </div>
 
