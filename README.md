@@ -20,7 +20,15 @@
 
 ---
 
-<!-- Portrait is intentionally not linked until its repository asset exists. -->
+
+<div align="center">
+
+<a href="https://rakshitr.co.in"><img src="./assets/cyberpunk_ai_architect_workspace.png" alt="Rakshit Rangarajan as an anime AI architect in a futuristic workspace" width="100%" /></a>
+
+<sub>THE ARCHITECT // AI SYSTEMS // BLACK & CRIMSON</sub>
+
+</div>
+
 ### `01 // THE ARCHITECT`
 
 I'm **Rakshit**, a software engineer with a **Master's in Artificial Intelligence from Cardiff University**.
