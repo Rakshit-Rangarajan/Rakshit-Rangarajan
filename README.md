@@ -1,10 +1,14 @@
 <div align="center">
 
+<a href="https://rakshitr.co.in"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2600&pause=800&color=DC143C&center=true&vCenter=true&width=850&height=70&lines=RAKSHIT+RANGARAJAN;AI+SOLUTIONS+ENGINEER;I+BUILD+AUTONOMOUS+SYSTEMS" alt="Animated Rakshit Rangarajan introduction" /></a>
+
 # RAKSHIT RANGARAJAN
 
 ### `AI SOLUTIONS ENGINEER // AGENTIC SYSTEMS // AUTONOMOUS AUTOMATION`
 
 **I'M LAZY, SO I AUTOMATE.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,50:250008,100:090909&height=65&section=header&text=BUILD%20%2F%20AUTOMATE%20%2F%20EVOLVE&fontColor=DC143C&fontSize=24&animation=twinkling" alt="Black and crimson animated cyberpunk title" width="100%" />
 
 [![PORTFOLIO](https://img.shields.io/badge/EXPLORE_PORTFOLIO-DC143C?style=for-the-badge&labelColor=090909)](https://rakshitr.co.in)
 [![LINKEDIN](https://img.shields.io/badge/CONNECT-DC143C?style=for-the-badge&labelColor=090909&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshit-rangarajan-2084b2211/)
@@ -16,6 +20,7 @@
 
 ---
 
+<!-- Portrait is intentionally not linked until its repository asset exists. -->
 ### `01 // THE ARCHITECT`
 
 I'm **Rakshit**, a software engineer with a **Master's in Artificial Intelligence from Cardiff University**.
