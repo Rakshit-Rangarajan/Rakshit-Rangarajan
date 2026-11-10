@@ -1,95 +1,95 @@
 <div align="center">
 
-![Rakshit Rangarajan — animated neon AI banner](./assets/ai-banner.svg)
+# 🌈 Rakshit Rangarajan
 
-### 🚀 AI Solutions Engineer • Agentic AI Builder • Automation Architect
+### ✨ AI systems magician · Automation enthusiast · Professional eliminator of repetitive tasks
 
-**I don't just integrate AI into products. I identify problems, architect solutions, and build the systems myself.**
+*“I'm lazy, so I automate.”*
 
-![Engineering philosophy in cursive](./assets/cursive-manifesto.svg)
+**I turn inconvenient problems into autonomous software.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_EXPLORE_MY_UNIVERSE-Portfolio-8B5CF6?style=for-the-badge)](https://rakshitr.co.in)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakshit-rangarajan-2084b2211/)
-[![Email](https://img.shields.io/badge/LET'S_BUILD-Email-FF4D8D?style=for-the-badge&logo=gmail)](mailto:rakshitr2000@gmail.com)
+[🌐 **ENTER MY PORTFOLIO**](https://rakshitr.co.in) &nbsp; • &nbsp; [💼 **LINKEDIN**](https://linkedin.com/in/rakshit-rangarajan-2084b2211/) &nbsp; • &nbsp; [✉️ **SAY HELLO**](mailto:rakshitr2000@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=I+see+a+problem.+I+build+the+solution.;Multi-agent+AI+%7C+RAG+%7C+Orchestration;From+prototype+to+production.;I'm+lazy%2C+so+I+automate.)
+🩵 💜 🩷 🧡 💛 💚
 
 </div>
 
 ---
 
-![About Rakshit](./assets/section-about.svg)
+## 🪄 The person behind the automation
+
+I'm **Rakshit**, a software engineer with a **Master's in Artificial Intelligence from Cardiff University**.
+
+I like building things that make people ask, *“Wait, you automated THAT?”* From multi-agent orchestration to knowledge systems, release engineering, and immersive learning experiences, I prefer **working prototypes over impressive buzzwords**.
+
+**What I bring:** AI architecture + full-stack implementation + practical infrastructure + an unreasonable desire to eliminate repetitive work.
+
+## 🛸 Choose your portal
+
+| Portal | What happens inside |
+|:---|:---|
+| 🧠 **PANTHEON — The Council of Minds** | Specialized AI agents coordinate and share knowledge |
+| ⚡ **AERO — The Release Machine** | Development and release workflows become automated |
+| 🎓 **NEURALFORGE — The Learning Universe** | Engineering education becomes an immersive experience |
+| 📚 **MNEMOSYNE — The Memory Vault** | Knowledge gets organized, retrieved, and grounded in sources |
+| 🌀 **OUROBOROS — The Experiment** | Software evolves through a series of unusual experiments |
+| 👁️ **IRIS — The Digital Companion** | An expressive desktop-and-mobile AI assistant |
 
 <div align="center">
 
-<img src="./assets/cyberpunk_ai_architect_workspace.png" alt="Rakshit as an anime AI architect in a futuristic workspace" width="100%" />
-
-<sub>⚡ AI architect mode: ON · Explore the systems behind the holograms below</sub>
-
-</div>
-
-## 🌌 The builder behind the systems
-
-I'm **Rakshit Rangarajan**, a software engineer with a **Master's in Artificial Intelligence from Cardiff University**. My specialty is transforming manual, repetitive, or fragmented workflows into useful AI-driven products.
-
-I work across **AI architecture, multi-agent orchestration, RAG, backend engineering, polished frontends, and release automation**. I enjoy owning the whole problem — from the first sketch to the deployed application.
-
-> ✨ *The best engineering removes work that never needed to be manual.*
-
-![Projects](./assets/section-projects.svg)
-
-## 🪐 Explore my AI universe
-
-| 🌟 Project | What I'm building | Domain |
-|:---|:---|:---|
-| 🧠 **Pantheon** | A connected universe of specialized AI agents sharing knowledge and coordinating tasks | Multi-agent systems |
-| ⚡ **AERO** | Autonomous enterprise development, release, and operations workflows | DevOps automation |
-| 🎓 **NeuralForge** | An immersive engineering mentorship and learning platform | AI + EdTech |
-| 📚 **Mnemosyne** | A source-grounded personal knowledge platform | RAG + knowledge |
-| 🌀 **OUROBOROS** | An experiment in continually evolving software | Autonomous systems |
-| 👁️ **IRIS** | An expressive desktop-and-mobile AI assistant | Human–AI interaction |
-
-<div align="center">
-
-[![See the full portfolio](https://img.shields.io/badge/SEE_MORE_PROJECTS-rakshitr.co.in-FF8C42?style=for-the-badge)](https://rakshitr.co.in)
-
-</div>
-
-## 🧬 What I bring to the table
-
-- **AI systems:** LLM integration, RAG pipelines, vector search, agentic workflows, orchestration and grounded responses.
-- **End-to-end engineering:** Python, C#, ASP.NET Core, Angular, TypeScript, REST APIs and distributed systems.
-- **Production thinking:** PostgreSQL, pgvector, MongoDB, Redis, Podman, Linux, CI/CD and automated testing.
-- **Ownership:** I proactively discover opportunities for automation and build working solutions independently.
-
-<div align="center">
-
-![The Constellation of Craft](./assets/technology-constellation.svg)
-
-*An interconnected toolkit, not a wall of badges. Four disciplines working together to turn ambitious ideas into production systems.*
-
-</div>
-
-## 📊 GitHub signal
-
-<div align="center">
-
-![GitHub activity](https://github-readme-stats.vercel.app/api?username=Rakshit-Rangarajan&show_icons=true&theme=radical&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit-Rangarajan&layout=compact&theme=radical&hide_border=true)
+### 🎟️ [Explore the actual projects → rakshitr.co.in](https://rakshitr.co.in)
 
 </div>
 
 ---
 
+## 🔮 The technology constellation
+
+*Not a badge collection. Four interconnected superpowers.*
+
+| | ✦ Discipline | ✦ Tools & technologies |
+|:---:|:---|:---|
+| 🩵 | **01 · THE THINKING MACHINES** | RAG · Agentic AI · LangGraph · LangChain · Ollama |
+| 🩷 | **02 · THE APPLICATION FORGE** | Python · C# · ASP.NET Core · Angular · TypeScript |
+| 💛 | **03 · THE MEMORY VAULTS** | PostgreSQL · pgvector · MongoDB · Redis |
+| 💜 | **04 · THE ENGINE ROOM** | Podman · Linux · Playwright · REST APIs |
+
+### 🌠 How they connect
+
+```text
+         🧠 AI & AGENTS
+                │
+                ▼
+      ✨ INTELLIGENT PRODUCTS ✨
+         ╱              ╲
+        ▼                ▼
+  🛠️ APPS & APIs     📚 DATA & MEMORY
+        ╲                ╱
+         ▼              ▼
+       🚀 TEST · SHIP · AUTOMATE
+```
+
+> **My favorite stack is the one that solves the problem with the least unnecessary complexity.**
+
+---
+
+## 🎯 Why work with me?
+
+- 🧩 **Problem-first:** I spot friction and turn it into useful software.
+- 🛠️ **End-to-end:** Architecture, APIs, UI, databases, deployment, and tests.
+- 🤖 **AI-native:** Grounded RAG, orchestration, and agent-driven workflows.
+- 🚀 **Builder mindset:** I enjoy taking ownership and getting things working.
+
+## 🎨 The odd little manifesto
+
 <div align="center">
 
-![Let's build](./assets/section-contact.svg)
+### *Imagine. Build. Automate. Repeat.*
 
-### 💡 Have a difficult problem that needs an AI-powered solution?
+**🩵 Less busywork. &nbsp; 🩷 More creativity. &nbsp; 💜 Better systems.**
 
-**Let's turn it into a working product.**
+### [🌐 Explore the full universe](https://rakshitr.co.in)
 
-[🌐 Portfolio](https://rakshitr.co.in) · [💼 LinkedIn](https://linkedin.com/in/rakshit-rangarajan-2084b2211/) · [✉️ Email](mailto:rakshitr2000@gmail.com)
+*If your process needs twelve clicks, I probably want to turn it into one.*
 
 </div>
