@@ -6,7 +6,7 @@
 
 ### `AI SOLUTIONS ENGINEER // AGENTIC SYSTEMS // AUTONOMOUS AUTOMATION`
 
-**I'M LAZY, SO I AUTOMATE.**
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=29&duration=3400&pause=1200&color=E33A4D&center=true&vCenter=true&width=750&height=55&lines=I'm+lazy%2C+so+I+automate.;Building+the+future%2C+one+agent+at+a+time." alt="Elegant animated signature" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,50:250008,100:090909&height=65&section=header&text=BUILD%20%2F%20AUTOMATE%20%2F%20EVOLVE&fontColor=DC143C&fontSize=24&animation=twinkling" alt="Black and crimson animated cyberpunk title" width="100%" />
 
