@@ -1,95 +1,101 @@
 <div align="center">
 
-# 🌈 Rakshit Rangarajan
+# RAKSHIT RANGARAJAN
 
-### ✨ AI systems magician · Automation enthusiast · Professional eliminator of repetitive tasks
+### `AI SOLUTIONS ENGINEER // AGENTIC SYSTEMS // AUTONOMOUS AUTOMATION`
 
-*“I'm lazy, so I automate.”*
+**I'M LAZY, SO I AUTOMATE.**
 
-**I turn inconvenient problems into autonomous software.**
+[![PORTFOLIO](https://img.shields.io/badge/EXPLORE_PORTFOLIO-DC143C?style=for-the-badge&labelColor=090909)](https://rakshitr.co.in)
+[![LINKEDIN](https://img.shields.io/badge/CONNECT-DC143C?style=for-the-badge&labelColor=090909&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshit-rangarajan-2084b2211/)
+[![EMAIL](https://img.shields.io/badge/CONTACT-DC143C?style=for-the-badge&labelColor=090909&logo=gmail&logoColor=white)](mailto:rakshitr2000@gmail.com)
 
-[🌐 **ENTER MY PORTFOLIO**](https://rakshitr.co.in) &nbsp; • &nbsp; [💼 **LINKEDIN**](https://linkedin.com/in/rakshit-rangarajan-2084b2211/) &nbsp; • &nbsp; [✉️ **SAY HELLO**](mailto:rakshitr2000@gmail.com)
-
-🩵 💜 🩷 🧡 💛 💚
+`[ SYSTEM ONLINE ]` &nbsp; `[ BUILD > TALK ]` &nbsp; `[ AUTOMATE EVERYTHING ]`
 
 </div>
 
 ---
 
-## 🪄 The person behind the automation
+### `01 // THE ARCHITECT`
 
 I'm **Rakshit**, a software engineer with a **Master's in Artificial Intelligence from Cardiff University**.
 
-I like building things that make people ask, *“Wait, you automated THAT?”* From multi-agent orchestration to knowledge systems, release engineering, and immersive learning experiences, I prefer **working prototypes over impressive buzzwords**.
+I don't wait for someone to assign an interesting problem. I find the friction, design a solution, and build it — from AI orchestration and backend systems to interfaces, infrastructure, and delivery.
 
-**What I bring:** AI architecture + full-stack implementation + practical infrastructure + an unreasonable desire to eliminate repetitive work.
+**My focus:** production-minded AI, multi-agent systems, grounded RAG, intelligent automation, and full-stack engineering.
 
-## 🛸 Choose your portal
+> **THE DIRECTIVE:** If a process is repetitive, it is a candidate for automation.
 
-| Portal | What happens inside |
-|:---|:---|
-| 🧠 **PANTHEON — The Council of Minds** | Specialized AI agents coordinate and share knowledge |
-| ⚡ **AERO — The Release Machine** | Development and release workflows become automated |
-| 🎓 **NEURALFORGE — The Learning Universe** | Engineering education becomes an immersive experience |
-| 📚 **MNEMOSYNE — The Memory Vault** | Knowledge gets organized, retrieved, and grounded in sources |
-| 🌀 **OUROBOROS — The Experiment** | Software evolves through a series of unusual experiments |
-| 👁️ **IRIS — The Digital Companion** | An expressive desktop-and-mobile AI assistant |
+---
+
+### `02 // THE PROJECT ARCHIVE`
+
+| PROJECT | DESIGNATION | MISSION |
+|:---|:---|:---|
+| **PANTHEON** | `MULTI-AGENT` | A network of specialized AI agents coordinating knowledge and work |
+| **AERO** | `AUTONOMOUS DELIVERY` | Enterprise development, release, and operations automation |
+| **NEURALFORGE** | `AI EDUCATION` | Immersive engineering mentorship and learning experiences |
+| **MNEMOSYNE** | `KNOWLEDGE SYSTEM` | Source-grounded knowledge capture, search, and retrieval |
+| **OUROBOROS** | `SELF-EVOLUTION` | Experimental software that evolves through successive updates |
+| **IRIS** | `AI COMPANION` | An expressive AI assistant spanning desktop and mobile |
 
 <div align="center">
 
-### 🎟️ [Explore the actual projects → rakshitr.co.in](https://rakshitr.co.in)
+[![EXPLORE THE PROJECTS](https://img.shields.io/badge/ACCESS_PROJECT_ARCHIVE-RED?style=for-the-badge&labelColor=080808)](https://rakshitr.co.in)
 
 </div>
 
 ---
 
-## 🔮 The technology constellation
-
-*Not a badge collection. Four interconnected superpowers.*
-
-| | ✦ Discipline | ✦ Tools & technologies |
-|:---:|:---|:---|
-| 🩵 | **01 · THE THINKING MACHINES** | RAG · Agentic AI · LangGraph · LangChain · Ollama |
-| 🩷 | **02 · THE APPLICATION FORGE** | Python · C# · ASP.NET Core · Angular · TypeScript |
-| 💛 | **03 · THE MEMORY VAULTS** | PostgreSQL · pgvector · MongoDB · Redis |
-| 💜 | **04 · THE ENGINE ROOM** | Podman · Linux · Playwright · REST APIs |
-
-### 🌠 How they connect
-
-```text
-         🧠 AI & AGENTS
-                │
-                ▼
-      ✨ INTELLIGENT PRODUCTS ✨
-         ╱              ╲
-        ▼                ▼
-  🛠️ APPS & APIs     📚 DATA & MEMORY
-        ╲                ╱
-         ▼              ▼
-       🚀 TEST · SHIP · AUTOMATE
-```
-
-> **My favorite stack is the one that solves the problem with the least unnecessary complexity.**
-
----
-
-## 🎯 Why work with me?
-
-- 🧩 **Problem-first:** I spot friction and turn it into useful software.
-- 🛠️ **End-to-end:** Architecture, APIs, UI, databases, deployment, and tests.
-- 🤖 **AI-native:** Grounded RAG, orchestration, and agent-driven workflows.
-- 🚀 **Builder mindset:** I enjoy taking ownership and getting things working.
-
-## 🎨 The odd little manifesto
+### `03 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### *Imagine. Build. Automate. Repeat.*
+**FOUR SYSTEMS. ONE ENGINEERING MIND.**
 
-**🩵 Less busywork. &nbsp; 🩷 More creativity. &nbsp; 💜 Better systems.**
+</div>
 
-### [🌐 Explore the full universe](https://rakshitr.co.in)
+| SYSTEM | CAPABILITIES |
+|:---|:---|
+| **[ 01 ] INTELLIGENCE** | `RAG` `AGENTS` `LANGGRAPH` `LANGCHAIN` `OLLAMA` |
+| **[ 02 ] APPLICATIONS** | `PYTHON` `C#` `ASP.NET CORE` `ANGULAR` `TYPESCRIPT` |
+| **[ 03 ] MEMORY** | `POSTGRESQL` `PGVECTOR` `MONGODB` `REDIS` |
+| **[ 04 ] OPERATIONS** | `PODMAN` `LINUX` `PLAYWRIGHT` `REST APIS` |
 
-*If your process needs twelve clicks, I probably want to turn it into one.*
+```text
+                 ┌─────────────────────┐
+                 │   INTELLIGENCE      │
+                 │  Agents / RAG / LLM │
+                 └──────────┬──────────┘
+                            │
+           ┌────────────────▼────────────────┐
+           │       APPLICATION LAYER         │
+           │       APIs / UX / Logic         │
+           └──────────┬──────────┬───────────┘
+                      │          │
+               ┌──────▼───┐ ┌────▼───────────┐
+               │  MEMORY  │ │   OPERATIONS   │
+               │ Data/RAG │ │  Test/Deploy   │
+               └──────────┘ └────────────────┘
+```
+
+---
+
+### `04 // OPERATING PRINCIPLES`
+
+**01.** Identify the actual problem, not just its symptoms.  
+**02.** Build the smallest system that solves it properly.  
+**03.** Automate repetitive work.  
+**04.** Test it, ship it, and keep improving it.
+
+---
+
+<div align="center">
+
+### `YOUR NEXT PROBLEM COULD BE MY NEXT AUTOMATION.`
+
+[![LET'S BUILD](https://img.shields.io/badge/LET'S_BUILD_SOMETHING-DC143C?style=for-the-badge&labelColor=080808)](https://rakshitr.co.in)
+
+<sub>BLACK // CRIMSON // FUTURE</sub>
 
 </div>
