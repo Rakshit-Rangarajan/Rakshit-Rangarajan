@@ -16,6 +16,16 @@
 
 ---
 
+![About Rakshit](./assets/section-about.svg)
+
+<div align="center">
+
+<img src="./assets/cyberpunk_ai_architect_workspace.png" alt="Rakshit as an anime AI architect in a futuristic workspace" width="100%" />
+
+<sub>⚡ AI architect mode: ON · Explore the systems behind the holograms below</sub>
+
+</div>
+
 ## 🌌 The builder behind the systems
 
 I'm **Rakshit Rangarajan**, a software engineer with a **Master's in Artificial Intelligence from Cardiff University**. My specialty is transforming manual, repetitive, or fragmented workflows into useful AI-driven products.
@@ -23,6 +33,8 @@ I'm **Rakshit Rangarajan**, a software engineer with a **Master's in Artificial 
 I work across **AI architecture, multi-agent orchestration, RAG, backend engineering, polished frontends, and release automation**. I enjoy owning the whole problem — from the first sketch to the deployed application.
 
 > ⚡ **My philosophy:** *I'm lazy, so I automate.* The best engineering removes work that never needed to be manual.
+
+![Projects](./assets/section-projects.svg)
 
 ## 🪐 Explore my AI universe
 
@@ -47,6 +59,8 @@ I work across **AI architecture, multi-agent orchestration, RAG, backend enginee
 - **End-to-end engineering:** Python, C#, ASP.NET Core, Angular, TypeScript, REST APIs and distributed systems.
 - **Production thinking:** PostgreSQL, pgvector, MongoDB, Redis, Podman, Linux, CI/CD and automated testing.
 - **Ownership:** I proactively discover opportunities for automation and build working solutions independently.
+
+![Technology](./assets/section-skills.svg)
 
 ## 🛠️ Technology constellation
 
@@ -77,6 +91,8 @@ I work across **AI architecture, multi-agent orchestration, RAG, backend enginee
 ---
 
 <div align="center">
+
+![Let's build](./assets/section-contact.svg)
 
 ### 💡 Have a difficult problem that needs an AI-powered solution?
 
